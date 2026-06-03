@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ajay Naik
 - 👀 I’m interested in coding
-- 🌱 I am a BCA student
-- 📫 How to reach me: ajaynaik6853@gmail.com
+- 🌱 I just Graduated from BCA
+- 📫 How to reach me: ajaynaik.dev@gmail.com
 - 😄 Pronouns: he/him
 
