@@ -12,6 +12,10 @@
 - [Bill Splitter](https://bill-splitter-i346.vercel.app/) - React app with API-based receipt parsing using Gemini Vision API
 - [Save Our Shores](https://github.com/Ajay-Naik/Climate_Action_Webpage) - Climate awareness static site
 
+### 🎓 Final Year Project
+- **[LumenAI](https://github.com/GEEK-213/LumenAI)** (Team of 5) — AI-powered study 
+  assistant mobile app built with Flutter, Python & Supabase  
+  My role: Frontend - Login, Notes, Recorder, Flashcards & File Upload screens
 ---
 
 ### 🛠️ Tech Stack
