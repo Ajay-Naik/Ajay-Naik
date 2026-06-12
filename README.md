@@ -10,7 +10,7 @@
 ### 🚀 Featured Projects
 - [Cafe E-Commerce Website](https://cafe-website.rf.gd/) - Full-stack cafe ordering platform built with PHP, MySQL & JavaScript
 - [Bill Splitter](https://bill-splitter-i346.vercel.app/) - React app with API-based receipt parsing using Gemini Vision API
-- [Save Our Shores](https://github.com/Ajay-Naik/Climate_Action_Webpage) - Climate awareness static site
+- [The Cocktail Lab](https://ajay-naik.github.io/Cocktail-Website/) - Cocktail discovery app with search, filters & favourites using TheCocktailDB API
 
 ### 🎓 Final Year Project
 - **[LumenAI](https://github.com/GEEK-213/LumenAI)** (Team of 5) — AI-powered study 
