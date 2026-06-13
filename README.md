@@ -34,6 +34,6 @@
 ---
 
 ### 📫 Reach me
-- Email: ajaynaik.dev@gmail.com  
+- Email: ajaynaik.dev@gmail.com 
 - LinkedIn: [linkedin.com/in/ajaynaik-dev](https://www.linkedin.com/in/ajaynaik-dev/)
 - GitHub: [github.com/Ajay-Naik](https://github.com/Ajay-Naik)
