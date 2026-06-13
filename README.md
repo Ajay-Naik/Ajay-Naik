@@ -9,7 +9,7 @@
 
 ### 🚀 Featured Projects
 - [Cafe E-Commerce Website](https://cafe-website.rf.gd/) - Full-stack cafe ordering platform built with PHP, MySQL & JavaScript
-- [Bill Splitter](https://bill-splitter-i346.vercel.app/) - React app with API-based receipt parsing using Gemini Vision API
+- [Bill Splitter](https://bill-splitter-brown.vercel.app/) - React app with API-based receipt parsing using Gemini Vision API
 - [The Cocktail Lab](https://ajay-naik.github.io/Cocktail-Website/) - Cocktail discovery app with search, filters & favourites using TheCocktailDB API
 
 ### 🎓 Final Year Project
