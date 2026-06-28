@@ -12,6 +12,7 @@
 - [Bill Splitter](https://bill-splitter-brown.vercel.app/) - React app with API-based receipt parsing using Gemini Vision API
 - [The Cocktail Lab](https://ajay-naik.github.io/Cocktail-Website/) - Cocktail discovery app with search, filters & favourites using TheCocktailDB API
 - [Job Application Tracker](https://job-application-tracker-three-tau.vercel.app/) - Full-stack MERN app to track job applications with status filters and live dashboard
+- [Task Tracker](https://task-tracker-xi-red.vercel.app) - Full-stack MERN app to track to manage and track tasks
 
 ### 🎓 Final Year Project
 - **[LumenAI](https://github.com/GEEK-213/LumenAI)** (Team of 5) — AI-powered study 
