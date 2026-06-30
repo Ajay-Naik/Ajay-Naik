@@ -30,8 +30,9 @@
 ---
 
 ### 📊 GitHub Stats
-![Ajay's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ajay-Naik&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ajay-Naik&layout=compact&theme=dark)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Ajay-Naik&rank_icon=github&custom_title=My%20Github%20Stats&show_icons=true&include_all_commits=true&theme=dark)](https://github-stats-extended.vercel.app/api?username=Ajay-Naik&rank_icon=github&custom_title=My%20Github%20Stats&show_icons=true&include_all_commits=true&theme=dark)
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Ajay-Naik&layout=donut-vertical&langs_count=5&hide_values=true&theme=dark)](https://github-stats-extended.vercel.app/api/top-langs?username=Ajay-Naik&layout=donut-vertical&langs_count=5&hide_values=true&theme=dark)
 
 ---
 
